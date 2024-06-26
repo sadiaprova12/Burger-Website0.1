@@ -475,6 +475,10 @@ img {
   text-align: center;
 }
 
+.delivery__data a:hover {
+  background: white;
+}
+
 .delivery__container .section__title{
   margin-bottom: 1rem;
 }
