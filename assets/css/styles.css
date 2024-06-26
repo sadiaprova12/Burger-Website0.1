@@ -242,6 +242,11 @@ img {
   text-align: center;
 }
 
+.home__data a:hover {
+  background: black;
+  color: var(--first-color);
+}
+
 .home__title{
   font-size: var(--biggest-font-size);
   margin-bottom: 1rem;
@@ -476,7 +481,8 @@ img {
 }
 
 .delivery__data a:hover {
-  background: white;
+  background: black;
+  color: var(--first-color);
 }
 
 .delivery__container .section__title{
